@@ -1,0 +1,29 @@
+{
+  "name": "playwritetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "codeGen": "npx playwright codegen",
+    "HomePageTest": "npx playwright test HomePageTest.spec.js",
+    "HomePageT": "npx playwright test builtInLocators.spec.js",
+    "showReport": "npx playwright show-report",
+    "user": "npx playwright test users.spec.js --ui",
+    "employee": "npx playwright test employeeList.spec.js --ui",
+    "job": "npx playwright test job.spec.js --ui",
+    "Generalinfo": "npx playwright test generalInformation.spec.js --ui"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.4"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "playwright": "^1.39.0"
+  }
+}
