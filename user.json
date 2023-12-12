@@ -1,0 +1,26 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://admin-uat.mc.mycashfs.com",
+      "localStorage": [
+        {
+          "name": "language",
+          "value": "\"en\""
+        },
+        {
+          "name": "user",
+          "value": "{\"name\":\"admin\",\"email\":\"admin@digicel.com\",\"userID\":\"450551ea-5537-4eed-b164-d484331f4330\",\"role\":\"SUPER_ADMIN\",\"accountStatus\":true,\"accessRole\":[{\"roleName\":\"SUPER_ADMIN\",\"roleCategory\":\"Admin\",\"permissions\":[{\"permissionName\":\"PERMISSION_ALL\",\"url\":[\"*\"],\"action\":[\"*\"]}],\"roleStatus\":true,\"visible\":false,\"id\":\"6318753da44769be7837365f\"}],\"id\":\"62b2dbdbd7e6bd70bca4e14e\"}"
+        },
+        {
+          "name": "LoggedIn",
+          "value": "true"
+        },
+        {
+          "name": "token",
+          "value": "eyJraWQiOiJSWmh0SkZ1TmVwUkw1alpFY1BjVlhFWDdXRDV5YTJHR3M5MkZwUjZQQkw4PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI0NTA1NTFlYS01NTM3LTRlZWQtYjE2NC1kNDg0MzMxZjQzMzAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfd0xlMUNTMWExIiwiY29nbml0bzp1c2VybmFtZSI6IjQ1MDU1MWVhLTU1MzctNGVlZC1iMTY0LWQ0ODQzMzFmNDMzMCIsIm9yaWdpbl9qdGkiOiI3NDMwMjFmNS1kZTk0LTQ0ZmYtOTQ1OS05YzgyZjdjMmUyZDkiLCJhdWQiOiIyZnI4bmZzYnBhZW5xanVvZnMzNTgxc2ZjOCIsImV2ZW50X2lkIjoiM2E1ZTM2YjMtMzZjNy00ZjRiLThmY2ItODkzNzM1MDlkMDliIiwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE3MDIyOTk1MjUsImV4cCI6MTcwMjM4NTkyNSwiaWF0IjoxNzAyMjk5NTI1LCJqdGkiOiI2ZThiMDY2My1mMzM4LTRjNTQtOGYxMC0zMjYyZDA0NTJjNTIiLCJlbWFpbCI6ImFkbWluQGRpZ2ljZWwuY29tIn0.EV_jXzKkTjtpR5ADTujV5sHV8USiG0yf07MoovOL-bqLZGe1RQgBYHIJQoDKezz3M-fB3RLEfUrbcXc9ARJ4KDMOZB0mBpUXISDffdS04_htpbknNXAcz2a7jpBKl5XJgJnB992TUNfZrjDADdEkBxwzjlgnG-399FZ0Cw8PRJcnc0JPPKFoW-ATZaq_t9yAnCPa_dj9PwoWaVdH0EYs-GAWPHvph-XwbazJvibezqNpSg4zUCVEFuPQKJLO4mkyFp3YaXaE0jB7QdQyt7meCiI3L5FsxTOc0Q7ERD9BVcojUyeH7EnnZgMmOrOEi4UKL-q-8-w9hT5cMLGvnsJ1Cg"
+        }
+      ]
+    }
+  ]
+}
